@@ -1,0 +1,7 @@
+C:\Users\lisaa\source\repos\Task List Objecrs\Task List Objecrs\obj\Debug\Task List Objecrs.csprojAssemblyReference.cache
+C:\Users\lisaa\source\repos\Task List Objecrs\Task List Objecrs\obj\Debug\Task List Objecrs.csproj.CoreCompileInputs.cache
+C:\Users\lisaa\source\repos\Task List Objecrs\Task List Objecrs\bin\Debug\Task List Objecrs.exe.config
+C:\Users\lisaa\source\repos\Task List Objecrs\Task List Objecrs\bin\Debug\Task List Objecrs.exe
+C:\Users\lisaa\source\repos\Task List Objecrs\Task List Objecrs\bin\Debug\Task List Objecrs.pdb
+C:\Users\lisaa\source\repos\Task List Objecrs\Task List Objecrs\obj\Debug\Task List Objecrs.exe
+C:\Users\lisaa\source\repos\Task List Objecrs\Task List Objecrs\obj\Debug\Task List Objecrs.pdb
